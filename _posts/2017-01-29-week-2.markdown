@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Week 2"
+date:   2017-01-29 19:42:44 -0600
+categories: Week 2
+---
+Last Week
+
+Last week I worked out a few bugs and optimizations with the Collatz project. I decided that it would be better optimized to use bitwise operators to divide by two. I also added the functionality to swap the starting and ending numbers if the second number was greater than the first number given as an input. This also included the case where the two input values were the same value.
+
+
+In My Way
+
+I’m still not passing the sphere judge. I need to keep messing with the cache size to figure out the right timing to size ratio. I think that I will write a quick script to write the top cycle values from 1- 999999 to a file, so that I can add them to the cache to reduce time dramatically
+
+
+Next Week
+
+I will continue to work on the stated objectives that are still in my way of updating the cache to hold the correct amount of values to pass the timed test. I will also be looking for a partner for the second project.
+
+
+Class Experience
+
+I enjoy the style of teaching that is presented. The end of week notes are very helpful to look over before the first class on Tuesday to get caught up on anything that fell out of my head over the weekend. Going over the example code has also been helpful for reflecting on what was presented in class and for help on the project.
+
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
