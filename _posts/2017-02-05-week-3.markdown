@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Software Engineering: Week 3"
+date:   2017-02-05 19:42:44 -0600
+categories: CS 373 Spring 2017
+---
+
+
+### Last Week
+
+>Last week I worked finished up the Collatz project. I was having some issues getting it accepted to the Sphere Online Judge. I was incorrectly calculating the leading and following max cycle ranges outside of the metacache range. After figuring out that I was miscalculating the range, it was an easy fix to get accepted on the Sphere Online Judge. The project took a little longer than expected because of troubleshooting the Sphere Online Judge
+
+----
+
+
+### In My Way
+
+>Nothing is currently in my way other than not having enough time in the day. I have a few other things going on in other classes, but nothing too big. I still need to find a partner for project 2, but I will work on that this week as well.
+
+----
+
+
+### Next Week
+
+>I am going to work on finding a partner for the next project. I need to catch up on some reading for multiple classes, but that should not take too much time. I also want to look over the code examples from class to review for the week.
+
+----
+
+
+### Class Experience
+
+>I am still enjoying the class. The Sphere Online Judge was a little annoying with undocumented things such as taking in new lines, but they were easy problems to fix. This past week material has been pretty easy, since I'm familiar with Python, but I understand that it is helping others that are not that familiar with the python language. There are a few interesting topics that I didn't know about, so that is helpful.
+
+----
+
+
+### Article and Tool of the Week
+
+>I thought this was interesting on [creating a polymer website using golang][goPolymer]. I'm not familiar with front-end work as much as back-end, so this is a helpful tool to create a Material themed website.
+
+
+----
+
+
+
+[goPolymer]: https://github.com/PalmStoneGames/polymer
