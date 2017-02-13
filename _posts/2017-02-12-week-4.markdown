@@ -1,1 +1,46 @@
+---
+layout: post
+title:  "Software Engineering: Week 3"
+date:   2017-02-05 19:42:44 -0600
+categories: CS 373 Spring 2017
+---
 
+
+### Last Week
+
+>Last week I found a partner and we started on the netflix project. We actually passed on our first attempt with an RMSE of .96, but we are going to try and get it to less than .95 by trying to add more conditionals using other data in the cache. Last week was also a busy week with other classes and exam weeks are in the near future. I plan on trying to stay ahead on all of the readings, so it is easier when exam weeks come. 
+
+----
+
+
+### In My Way
+
+>Nothing is currently in my way other than not having enough time in the day. I found a partner for the netflix project, so that road block is solved. This week is a busy week with classes and Valentines Day, so finding more time inbetween classes will be rough. Other than those, nothing else is in my way.
+
+----
+
+
+### Next Week
+
+>I am going to continue writing the core code for the netflix project with my partner. We also need to write more unit tests and acceptance tests. Everything in the makefile is setup like the collatz project, so we will use a simular file as before.
+
+----
+
+
+### Class Experience
+
+>I am still enjoying the class. Everything has been going smoothly. I feel like the structure of the netflix project is not as fixed as the past project. This could lead to problems with expecting corner cases of input that could be given to us, but maybe that will be cleared out on piazza. I wish that we would have had a little more time on the netflix project to mess around with the data, but it is understandable that there are other projects that we want to get to in the class.
+
+----
+
+
+### Article and Tool of the Week
+
+>I thought this was interesting on [Go at Netflix][goPolymer]. Go Time is a great podcast to listen to in itself, but this one was related to what we are doing on project two. I like their focus on micro-services and latency.
+
+
+----
+
+
+
+[Go at Netflix]: https://changelog.com/gotime/9
