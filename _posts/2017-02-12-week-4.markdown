@@ -36,7 +36,7 @@ categories: CS 373 Spring 2017
 
 ### Article and Tool of the Week
 
->I thought this was interesting on [Go at Netflix][Go at Netflix]. Go Time is a great podcast to listen to in itself, but this one was related to what we are doing on project two. I like their focus on micro-services and latency.
+>I thought this was interesting on [Go at Netflix][GoatNetflix]. Go Time is a great podcast to listen to in itself, but this one was related to what we are doing on project two. I like their focus on micro-services and latency.
 
 
 ----
