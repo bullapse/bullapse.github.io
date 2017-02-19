@@ -1,1 +1,46 @@
+---
+layout: post
+title:  "Software Engineering: Week 4"
+date:   2017-02-19 19:42:44 -0600
+categories: CS 373 Spring 2017
+---
 
+
+### Last Week
+
+>Last week I finished up the netflix project with my partner. We didn't have too many issues with the project. We were a little unsure is there could be a subset of probe.txt that could give us a high RMSE, but we're thinking that if the subset is large enough, then we should be fine. Last week the only focus for Software Engineering was the netflix project and going over code.
+
+----
+
+
+### In My Way
+
+>Nothing is currently in my way other than not having enough time in the day. I need to spend more time going over the python files to start reviewing and studying for the test. I think that there are going to be many details in python that are going to get me on the test, so that is going to be my main focus.
+
+----
+
+
+### Next Week
+
+> Next week I'm going to continue going over the python code that is presented in class. I need to do more lookups on tuples and generators. There seem to be many different querks when using them.
+
+----
+
+
+### Class Experience
+
+>I am still enjoying the class. Everything has been going smoothly. I think that going over the code presented in class will be helpful for the test and looking up generators. It might be helpful to have a topics list for the test to review, as the code can be hard to tell exactly what it is representing at times.
+
+----
+
+
+### Article and Tool of the Week
+
+>I thought this was interesting on [pelikan][pelikan]. Pelikan is an insteresting run. It's a unified cache for Twitter.
+
+
+----
+
+
+
+[pelikan]: https://github.com/twitter/pelikan
