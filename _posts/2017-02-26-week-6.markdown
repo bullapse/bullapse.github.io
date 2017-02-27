@@ -36,11 +36,11 @@ categories: CS 373 Spring 2017
 
 ### Article and Tool of the Week
 
->I thought this was interesting on [pelikan][pelikan]. Pelikan is an insteresting run. It's a unified cache for Twitter.
+>I thought this was interesting on [GitLab.com Database Incident - 2017/01/31][ghlabs]. 
 
 
 ----
 
 
 
-[pelikan]: https://github.com/twitter/pelikan
+[ghlabs]: https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub
