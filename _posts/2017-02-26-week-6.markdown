@@ -1,1 +1,46 @@
+---
+layout: post
+title:  "Software Engineering: Week 5"
+date:   2017-02-19 19:42:44 -0600
+categories: CS 373 Spring 2017
+---
 
+
+### Last Week
+
+>Last week I focused on other classes mainly, but I did some reviewing of the code for the test coming up. It was helpful to look over the code to make sure that I knew the different functions of python with generators. I also reviewed everything in the piazza post that showed what was needed to know for the first exam.
+
+----
+
+
+### In My Way
+
+>Nothing is currently in my way other than not having enough time in the day. I need to spend more time going over the python files to continue reviewing and studying for the test. There are different parts of python that I'm not as fimaliar with, so I'm going to have to focus in on those to make sure that I get those down. Generators are clearer now, but I still don't exactly see the use for them, so I'll haev to look more into that.
+
+----
+
+
+### Next Week
+
+> Next week I'm going to be studying for 3 tests throughout the week, including the one for this class. I also will begin looking into the next project and organizing with my partner. The main focus is studying though.
+
+----
+
+
+### Class Experience
+
+>I am still enjoying the class. Everything has been going smoothly. I like that there was a post to give information on everything that will be covered on the test. It is nice to have a clear understanding and have a list to go through each point to make sure that I know all of the functions of python.
+
+----
+
+
+### Article and Tool of the Week
+
+>I thought this was interesting on [pelikan][pelikan]. Pelikan is an insteresting run. It's a unified cache for Twitter.
+
+
+----
+
+
+
+[pelikan]: https://github.com/twitter/pelikan
