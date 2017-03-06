@@ -1,1 +1,46 @@
+---
+layout: post
+title:  "Software Engineering: Week 7"
+date:   2017-03-5 19:42:44 -0600
+categories: CS 373 Spring 2017
+---
 
+
+### Last Week
+
+>Last week I had a 3 pretty hard tests, so I spent the whole week studying. I realized instantly that I missed one of the questions on the exam as soon as I took it, as I was walking home. I thought that the test was pretty hard for not having internet access. I feel like in the real world I could look up small things that I coldn't remeber, or inticipate being on the test.
+
+----
+
+
+### In My Way
+
+>Nothing is currently in my way other than stil not having enough time in the day. I have 2 tests coming up this week, so a majority of my time will be allocated to studying for those tests, but other than that, I think that I am all caught up on my other classes, including this one.
+
+----
+
+
+### Next Week
+
+> Next week I'm going to be studying for 2 tests throughout the week. I did a quick glance on over the next project, but I will spend more time looking over the requirements for the next project and begin talking with my partner. I missed class on Thursday for a meeting with work, so I will have to look over the code that we went over in class.
+
+----
+
+
+### Class Experience
+
+>I am still enjoying the class. Everything has been going smoothly. I feel that it is almost unnecessary to have tests in this class. I feel that the projects are more than enough work, and it related more to the real world than writing code on paper. In the real world, I look up how to do things that I forget all of the time, but in a test setting I feel like I forget some of the specific things that are required to know on the tests.
+
+----
+
+
+### Article and Tool of the Week
+
+>I thought this was interesting on [PIXterm][PIXterm]. 
+
+
+----
+
+
+
+[PIXterm]: https://github.com/eliukblau/pixterm
