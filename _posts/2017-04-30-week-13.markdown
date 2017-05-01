@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Software Engineering: Week 13"
-date:   2017-30-4 19:42:44 -0600
+date:   2017-30-04 19:42:44 -0600
 categories: CS 373 Spring 2017
 ---
 
