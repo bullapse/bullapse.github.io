@@ -5,7 +5,6 @@ date:   2017-30-4 19:42:44 -0600
 categories: CS 373 Spring 2017
 ---
 
-
 ### Last Week
 
 >As the semester is wrapping up, there are a lot of other projects and tests that I'm having to put a lot of time towards. For software engineering, I presented the beautiful soup python library with some examples. I thought that it was really neat that another student took my example and is going to help them in their DevOps when sshing into the UTCS lab machines. Other than my biology test last week, I mainly worked on a few projects for work involving AI using tensorflow to create a sample to show upper management. 
