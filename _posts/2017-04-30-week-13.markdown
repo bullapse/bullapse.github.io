@@ -1,1 +1,46 @@
 
+---
+layout: post
+title:  "Software Engineering: Week 13"
+date:   2017-30-4 19:42:44 -0600
+categories: CS 373 Spring 2017
+---
+
+
+### Last Week
+
+>As the semester is wrapping up, there are a lot of other projects and tests that I'm having to put a lot of time towards. For software engineering, I presented the beautiful soup python library with some examples. I thought that it was really neat that another student took my example and is going to help them in their DevOps when sshing into the UTCS lab machines. Other than my biology test last week, I mainly worked on a few projects for work involving AI using tensorflow to create a sample to show upper management. 
+----
+
+
+### In My Way
+
+>Nothing is currently in my way other than stil not having enough time in the day. This week is going to be a rough one. I have 3 tests on Thursday and 1 test on Wednesday. We present our website on Tuesday morning, so that should be interesting. I put a lot into the website to get it going, so I'm looking forward to seeing how other people view it.
+
+----
+
+
+### Next Week
+
+> Finals. Finals. Finals. Studying for finals. I will probably try to get some things done for work as well, but I want to put a majority of my time into finals. It should be rought, but I'm going to do everything I can to ensure that I'm going to graduate! I'm ready to start working at Dell in June, so I'm hoping that nothing bad happens between now and then.
+
+----
+
+
+### Class Experience
+
+>I am still enjoying the class. I've have been frustrated with the quizes throughout the semseter. I feel like I need more time to actually use the things we do in class, like in the projects, to actually learn the material. I will admit that I have missed a few classes after getting a 0 on  a quiz. I think that I put a majority of my time working on the projects. I fell like that is where I have learned the most throughout the semester. I think it would be nice if the quizes were not worth as much as they are. I do very well on the projects. I also feel like doing the projects is more like "working", as this class is something to help people get ready for "work".
+
+----
+
+
+### Article and Tool of the Week
+
+>When doing the majority of my work at Dell, I'm having to use multiple computers and it can get a bit annoying going from one keyboard to another. A useful tool is [Synergy][Synergy]. 
+
+
+----
+
+
+
+[Synergy]: https://symless.com/synergy
